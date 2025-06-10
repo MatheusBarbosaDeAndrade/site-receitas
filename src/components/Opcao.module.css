@@ -1,0 +1,15 @@
+.imagem{
+    width: 150px;
+}
+
+.opcao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(75, 1, 1);
+    padding: 30px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 18px;
+}

@@ -1,0 +1,11 @@
+.footer{
+    text-align: center;
+    background-color:#313638
+    ;
+    min-height: 100vh;
+    color: aliceblue;
+}
+
+.footer p{
+    margin: 30;
+}

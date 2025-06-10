@@ -1,0 +1,9 @@
+.erro{
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4D6CC;
+    color: rgb(116, 116, 116);
+}
